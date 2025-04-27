@@ -1,5 +1,5 @@
 # Fisher-Linear-Discriminant-Analysis-2-Classes-
 
 
-$$\mathcal{I}$$
+$$\boldsymbol{x}$$
 
