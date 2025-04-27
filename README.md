@@ -2,6 +2,6 @@
 
 
 \begin{equation}
-\mathcal{I}
+I
 \end{equation}
 
